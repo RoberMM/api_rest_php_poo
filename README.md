@@ -1,8 +1,6 @@
 # api_rest_php_poo
 API REST formato Orientado a Objeto PHP
 
-CRUD com o framework CodeIgniter
-
 💻 About<br>
 Integração API REST com PHP no formato POO;
 
